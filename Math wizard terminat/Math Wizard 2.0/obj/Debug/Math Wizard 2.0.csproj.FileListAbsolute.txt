@@ -1,0 +1,65 @@
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.Cache
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard 2.0\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+C:\Users\RCC\Desktop\Math Wizard\2020.03.13 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.Cache
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form2.resources
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+C:\Users\RCC\Desktop\Math Wizard\2020.04.12 MATH WIZARD\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.Cache
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form2.resources
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+C:\Users\RCC\Desktop\Math Wizard\Math WIZARD 2.0 DE LUCRAT PE EL\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.Cache
+C:\Users\RCC\Desktop\Math Wizard\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+E:\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+E:\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+E:\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form2.resources
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+C:\Users\RCC\Desktop\Math Wizard\atestat chiriac\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.Cache
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe.config
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.exe
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\bin\Debug\Math Wizard 2.0.pdb
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csprojAssemblyReference.cache
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form1.resources
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Form2.resources
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math_Wizard_2._0.Properties.Resources.resources
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.GenerateResource.cache
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.csproj.CoreCompileInputs.cache
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.exe
+E:\De mutat\Math Wizard\Atestat Chiriac RC si Stoian MC\Math wizard terminat\Math Wizard 2.0\obj\Debug\Math Wizard 2.0.pdb
